@@ -1,0 +1,2 @@
+The Virtual 3D Try-On for Jewelry project aims to revolutionize the online shopping experience by allowing users to visualize jewelry in a realistic, interactive, and immersive way. Using advanced 3D modeling and augmented reality (AR) technologies, this application provides a virtual platform where customers can "try on" jewelry pieces such as rings, necklaces, earrings, and bracelets from the comfort of their homes.
+![Screenshot (1034)](https://github.com/user-attachments/assets/0b9e2cda-0919-470c-b231-8f542bcd5926)
